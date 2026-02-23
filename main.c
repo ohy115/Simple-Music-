@@ -4,7 +4,6 @@
 int main() {
     int duration = 400;
 
-    // Note frequencies
     int notes[14] = {
         0,      // index 0 unused
         261,    // 1 C4
@@ -40,4 +39,5 @@ int main() {
     }
 
     return 0;
+
 }
